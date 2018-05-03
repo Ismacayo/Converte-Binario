@@ -1,0 +1,10 @@
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\bin\Debug\ConvertBinario.exe.config
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\bin\Debug\ConvertBinario.exe
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\bin\Debug\ConvertBinario.pdb
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\obj\Debug\ConvertBinario.csprojResolveAssemblyReference.cache
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\obj\Debug\ConvertBinario.ConvertBinario.resources
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\obj\Debug\ConvertBinario.Properties.Resources.resources
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\obj\Debug\ConvertBinario.csproj.GenerateResource.Cache
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\obj\Debug\ConvertBinario.csproj.CoreCompileInputs.cache
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\obj\Debug\ConvertBinario.exe
+C:\Users\clima\source\repos\ConvertBinario\ConvertBinario\obj\Debug\ConvertBinario.pdb
